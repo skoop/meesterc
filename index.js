@@ -1,5 +1,7 @@
 #! /usr/bin/env node
 
+'use strict';
+
 const Luxafor = require('luxafor-api');
 const open = require('open');
 
