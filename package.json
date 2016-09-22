@@ -14,5 +14,9 @@
   "dependencies": {
     "luxafor-api": "^2.0.0",
     "open": "0.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:arjaneising/meesterc.git"
   }
 }
