@@ -1,6 +1,6 @@
 {
   "name": "meesterc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "meesterc ongein",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:arjaneising/meesterc.git"
+  },
+  "bin": {
+    "meesterc": "index.js"
   }
 }

@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 const Luxafor = require('luxafor-api');
 const open = require('open');
 
